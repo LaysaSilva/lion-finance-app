@@ -1,5 +1,5 @@
 # Lion Finance
- Aplicativo de finanças que cria relatórios e estatísticas baseado nos gastos e lucros pessoais. 
+ Projeto Universitário de um aplicativo de finanças que cria relatórios e estatísticas baseado nos gastos e lucros pessoais 
 
 ## Requisitos
 - Visual Studio Community
